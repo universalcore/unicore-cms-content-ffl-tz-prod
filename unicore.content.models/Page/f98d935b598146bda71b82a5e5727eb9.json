@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "About (Kuhusu)", 
+  "language": "swa_TZ", 
+  "title": "about", 
+  "primary_category": null, 
+  "created_at": "2015-10-06T12:53:14.362239+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-10-06T12:53:14.362489+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Inawezekana kuokoa maisha na kupunguza kwa kiasi kikubwa mateso ya binadamu kwa kukamata kusudiyo(hatuwa) za ukingo na ulizi. Lakini elimu hii ni lazima ijulishwe kwa wazazi, waganga na jamii, ambao ni wa kwanza kuwa na uwezo wa kuwalinda watoto kutokana na magonjwa na athari nyingine.\r\n\r\nKujua kwa kuokoa ina kusanyisha maarifa muhimu juu ya njia mbalimbali za kuzuia vifo vya watoto na akina mama, magonjwa, ajali na vurugu(ubakaji).\r\n\r\nKujua kwa kuokoa ilitengenezwa pamoja na UNICEF, WHO, UNESCO, UNFPA, UNDP, UNAIDS, WFP na Benki ya Dunia.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "about", 
+  "uuid": "f98d935b598146bda71b82a5e5727eb9"
+}
